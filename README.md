@@ -2,7 +2,7 @@
 <p><img src="https://lh3.googleusercontent.com/O9nHFV1_V4qK4raAFg_D2iAHzrnTz9Np77jmXbGX56f-sRiKqxCju83-OMu-uGu1cHTQYbVDLzE_Pw" alt="enter image description here"></p>
 <p><em>A Smart and innovative way for managing attendance.</em><br>
 <img src="https://docs.microsoft.com/en-us/azure/cognitive-services/face/images/face.detection.jpg" alt="enter image description here">
-This the video of the whole project - https://youtu.be/TM9ID6TAKO4
+<br>This the video of the whole project - https://youtu.be/TM9ID6TAKO4
 </p>
 <h2 id="installation">Installation</h2>
 <blockquote>
