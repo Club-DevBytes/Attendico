@@ -1,4 +1,4 @@
-<h1 id="aWayIn">A Way In</h1>
+<h1 id="aWayIn">Attendico</h1>
 <p><img src="https://lh3.googleusercontent.com/O9nHFV1_V4qK4raAFg_D2iAHzrnTz9Np77jmXbGX56f-sRiKqxCju83-OMu-uGu1cHTQYbVDLzE_Pw" alt="enter image description here"></p>
 <p><em>A Smart and innovative way for managing attendance.</em><br>
 <img src="https://docs.microsoft.com/en-us/azure/cognitive-services/face/images/face.detection.jpg" alt="enter image description here">
